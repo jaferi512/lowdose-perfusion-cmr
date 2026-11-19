@@ -1,0 +1,16 @@
+# dataset (downloaded locally, not redistributed)
+data/
+*.zip
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
